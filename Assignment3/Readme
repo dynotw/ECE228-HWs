@@ -1,1 +1,9 @@
+Assignment 3
 
+Neural Networks on MNIST
+
+In this assignment you will train a two layer neural network to classify images from the MNIST handwritten digits database.
+
+The MNIST dataset consists of images of handwritten digits (0 to 9). We have created a smaller version of the dataset for this assignment. To follow along locally, download http://noiselab.ucsd.edu/ECE228/MnistDemo.zip
+
+For our NN, will use a single hidden layer (200 nodes) and a softmax output layer. The hidden layer consists of Rectified Linear Units (ReLUs).
