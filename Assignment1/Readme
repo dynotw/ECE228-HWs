@@ -1,0 +1,7 @@
+Assignment Description
+Bishop, section 1.6.1
+
+Kullback–Leibler Divergence (KL Divergence) is a measure of the similarity between two probability distributions. In this problem you will create a function which 
+takes two (discrete) probability distributions and calculates the KL divergence between them.
+
+Regarding Tip 2: Instead of using isnan and isinf a more elegant solution would be to compare only points where either probability is non-zero.
