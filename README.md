@@ -1,2 +1,2 @@
-# ece228
-Machine Learning on Physical Applications
+# ECE228
+These codes are assignment for Machine Learning on Physical Applications
